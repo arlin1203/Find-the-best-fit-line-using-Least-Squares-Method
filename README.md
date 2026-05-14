@@ -24,7 +24,7 @@ Developed by: ARLIN REJ R
 RegisterNumber:  212225040027
 */
 ```
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 
